@@ -12,7 +12,6 @@ public class UserObserver implements Observer {
 
     @Override
     public void update(Task task) {
-        // Notification prints the username explicitly
         System.out.println("Notification -> " + username + ": A new task \"" + task.getName() + "\" has been added.");
     }
 
