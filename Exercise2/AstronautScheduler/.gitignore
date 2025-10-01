@@ -1,0 +1,27 @@
+# Compiled Java class files
+*.class
+
+# Log files
+*.log
+
+# Build directories
+bin/
+build/
+out/
+
+# IDE-specific files
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# JAR files
+*.jar
+
+# Temporary files
+*.tmp
